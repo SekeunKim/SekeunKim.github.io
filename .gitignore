@@ -1,0 +1,11 @@
+# personal documents — never publish
+*.docx
+*.doc
+*.pdf
+picture.png
+Screenshot*.png
+
+# macOS / Drive cruft
+.DS_Store
+Icon?
+._*
