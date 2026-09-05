@@ -210,6 +210,7 @@ h3.sub{
   border-top:1px solid var(--rule); margin-top:8px;
   padding:24px; text-align:center; font-size:.8rem; color:var(--text-faint);
 }
+.visits{display:block; margin-top:6px; font-size:.74rem; opacity:.75}
 
 /* ---------- mobile polish ---------- */
 @media (max-width:860px){
