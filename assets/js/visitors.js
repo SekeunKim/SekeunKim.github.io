@@ -5,9 +5,8 @@
    Nothing runs on localhost or from the filesystem, and the footer line
    stays hidden unless a count actually comes back. */
 (function () {
-  var SITE_CODE = 'YOUR-CODE';
+  var SITE_CODE = 'sekeunkim';
 
-  if (SITE_CODE === 'YOUR-CODE') return;
   if (location.protocol === 'file:' ||
       location.hostname === 'localhost' ||
       location.hostname === '127.0.0.1') return;
