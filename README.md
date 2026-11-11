@@ -4,7 +4,7 @@ Static site (no build step, no dependencies). Open `index.html`, or run `python3
 
 ```
 index.html          Biography, research interests, appointments, contact, news
-publications.html   Journal / Conference / Preprints / Patents  (57 items; includes patents)
+publications.html   Year-ordered publications with type labels / Patents (57 items total)
 talks.html          Teaching, invited talks, editorial & review service
 honors.html         Honors and awards
 assets/css/style.css
